@@ -1,7 +1,7 @@
-# customer-churn-analysis
-End-to-End Customer Churn Analysis and Retention Strategy using Python, SQL &amp; Power BI
 
 # Customer Churn Prediction and Retention Analytics
+End-to-End Customer Churn Analysis and Retention Strategy using Python, SQL &amp; Power BI
+
 
 ## Project Overview
 This project performs **end-to-end data analysis** on the Telco Customer Churn dataset to understand customer behavior, identify the key drivers of churn, and provide actionable business recommendations for improving customer retention.
